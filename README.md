@@ -4,7 +4,7 @@
 I'm [Matt Baker](https://www.linkedin.com/in/mattjbaker), a seasoned Geographic Information Systems professional with over 15 years of experience delivering scalable geospatial solutions. From interactive web maps and advanced spatial analytics to workflow automation and data integration, I help clients unlock the true value of their location data — quickly, securely, and cost‑effectively.
 
 ## Need help or have a question?
-Reach out at [matt@greenstone-geo.com](maito:matt@greenstone-geo.com).
+Reach out at [matt@greenstone-geo.com](mailto:matt@greenstone-geo.com).
 
 ### Services Overview
 
