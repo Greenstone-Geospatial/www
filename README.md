@@ -4,14 +4,14 @@
 I'm [Matt Baker](https://www.linkedin.com/in/mattjbaker), a seasoned Geographic Information Systems professional with over 15 years of experience delivering scalable geospatial solutions. From interactive web maps and advanced spatial analytics to workflow automation and data integration, I help clients unlock the true value of their location data — quickly, securely, and cost‑effectively.
 
 ## Need help or have a question?
-Reach out at [matt@greenstone-geo.com](maito:matt@greenstone-geo.com}
+Reach out at [matt@greenstone-geo.com](maito:matt@greenstone-geo.com).
 
 ### Services Overview
 
 - `Custom GIS Development:` Tailored GIS workflows, Python scripts, and API's.
-- `Interactive Mapping & Visualization:` Web-ready maps (Leaflet, Mapbox, ArcGIS Online), dashboards, and apps.
+- `Interactive Mapping & Visualization:` Web-ready maps (Leaflet, Mapbox, ESRI), dashboards, and apps.
 - `Spatial Analysis & Modelling:` Suitability modeling, routing, hot-spot detection.
-- `Data Management & Integration:` Database design, ETL pipelines, and cloud infrastructure (AWS, Azure).
+- `Data Management & Integration:` Database design (SQL Server, PostGIS), ETL pipelines, and cloud infrastructure (AWS, Azure).
 - `Training & Support:` Workshops, documentation, and ongoing maintenance.
 
 ### Why Greenstone?
