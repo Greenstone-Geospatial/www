@@ -5,7 +5,7 @@ I'm Matt Baker, a seasoned Geographic Information Systems specialist with overâ€
 
 ### Services Overview
 
-1. **Custom GIS Development:** Tailored GIS workflows, Python scripts, and API's.
+1. `Custom GIS Development:` Tailored GIS workflows, Python scripts, and API's.
 2. **Interactive Mapping & Visualization:** Web-ready maps (Leaflet, Mapbox, ArcGIS Online), dashboards.
 3. **Spatial Analysis & Modelling:** Suitability modeling, routing, hot-spot detection.
 4. **Data Management & Integration:** Database design, ETL pipelines, and cloud infrastructure (AWS, Azure).
